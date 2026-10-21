@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1,6;
+}
+
+h2{
+    background-color: rgb(194, 138, 247);
+    color: aliceblue;
+}
+
+    .warning {
+        background-color: azure;
+        font-weight: bold;
+    }
+        
+.serif {
+    font-family: Georgia,  serif;
+}
+
+.sans-serif {
+    font-family: Arial, sans-serif;
+}
