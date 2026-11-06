@@ -1,24 +1,26 @@
 body {
+    background-color: #F79CDC;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1,6;
-    background-color: #fab1e8;
+    margin: 0;
+    padding: 20px;
 }
 
+h1{ color: #f0f8ff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+
+}
 
 h2{
     color: #f0f8ff;
     font-family: serif;
+    background-color: #D189F0;
+    font-size: 26px;
 }
 
-    .warning {
-        background-color: azure;
-        font-weight: bold;
-    }
-        
-.serif {
-    font-family: Georgia,  serif;
-}
 
-.sans-serif {
-    font-family: Arial, sans-serif;
+.card {
+    background-color:rgba(255, 255, 255, 0.201);
+
 }
