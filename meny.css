@@ -1,17 +1,19 @@
 body{
-    background-color: rgb(3, 3, 71);
+    background-color:#F79CDC;
+    color: rgb(235, 237, 239);
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
-    background-color: rgb(17, 23, 188);
-    color: rgb(144, 197, 253);
+    background-color:#c55af3;
+    color: #D189F0;
 }
 
 .navbar a {
-    color: rgb(144, 197, 253);
+    color: #f0f8ff;
     text-decoration: none;
+    font-family:'Times New Roman', Times, serif
 }
 
 .nav-links{
@@ -22,7 +24,7 @@ body{
     padding: 0; 
 }
 .nav-links a {
-color: rgb(18, 222, 222);
+color: #f0f8ff;
 text-decoration: none;
 }
 
